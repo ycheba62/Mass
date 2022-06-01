@@ -1,6 +1,4 @@
 from random import random
-let
-{};
 M = 5
 N = 5
 count = 0
@@ -14,6 +12,6 @@ for i in range(N):
         b.append(n)
     a.append(b)
 for i in a:
-    print(i)()
+    print(i)
 print  ("Количество двузначных чисел: %d" % count)
-end
+
